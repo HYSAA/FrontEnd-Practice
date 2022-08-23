@@ -1,0 +1,61 @@
+.container{
+    position: relative;
+}
+
+
+h2{
+    text-align: center;
+    color: black;
+}
+.first{
+font-size: 30px;
+text-align: left;
+}
+.second{
+    text-align: right;
+font-size: 20px;
+position: absolute;
+top: 10px;
+right: 5px;
+width: 300px;
+
+}
+.third{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    bottom: -800px;
+    right: 16px;
+    font-size: 18px;
+    margin: 5px;
+}
+.small{
+    font-size: 10px;
+    color: black;
+}
+.small{
+    padding: 5px;
+}
+p{
+    font-size: 15px;
+    padding: 10px;
+    margin-left: 5px;
+    margin: -5px;
+}
+footer{
+    padding: 10px;
+}
+img{
+    padding: 15px;
+}
+
+main{
+color: aqua;
+
+}
+p{
+    color: rgb(5, 5, 5);
+}
+body{
+    background-color:#00c1b5;
+}
